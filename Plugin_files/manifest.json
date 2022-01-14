@@ -1,0 +1,34 @@
+{
+  "Actions": [
+    {
+      "Icon": "icons/mute/aicon",
+      "Name": "mute / unmute",
+      "States": [
+        {
+          "Image": "icons/mute/aicon",
+          "Name": "Default"
+        }
+      ],
+      "Tooltip": "Mute or unmute your mic",
+      "UUID": "dev.nadie.dcontrol.mute"
+    }
+  ],
+  "Category": "Discord Controls",
+  "SDKVersion": 2,
+  "Author": "Nadie",
+  "CodePath": "dev.nadie.dcontrol.exe",
+  "Description": "Control Discord using your Streamdeck!",
+  "Name": "Discord control",
+  "Icon": "icons/pluginIcon",
+  "URL": "https://nadie.dev",
+  "Version": "1.2",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Software": {
+    "MinimumVersion": "4.1"
+  }
+}
